@@ -1,0 +1,10 @@
+#Insert the names of your teamates
+
+Player1
+Player2
+Player3
+Player4
+Player5
+
+#You can use any amount of players and the software will adapt,
+# mind that a lot of players may no fit in your screen
