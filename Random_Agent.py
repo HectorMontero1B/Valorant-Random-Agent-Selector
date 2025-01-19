@@ -6,7 +6,7 @@ import os
 import sys
 
 # Total number of agents (including the new agent)
-TOTAL_AGENTS = 25  # Here you define the total number of agents, updated for the new character
+TOTAL_AGENTS = 26  # Here you define the total number of agents, updated for the new character
 
 # Function to load images
 def load_images():
